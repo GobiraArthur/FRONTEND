@@ -1,10 +1,10 @@
 body{
     font-family: 'Hedvig Letters Serif', serif;
-    background-color: bisque;
+    background-color: rgb(156, 255, 145);
 }
 
 header {
-    background-color: bisque;
+    background-color: rgb(156, 255, 145);
     padding: 20px;
     margin-top: 10px;
     text-align: center;
